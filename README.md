@@ -1,2 +1,2 @@
 # Python-Hooking-Examples
-Python Hooking Example
+Python Hooking Examples
